@@ -62,6 +62,6 @@ Utilize the provided Dockerfiles in /docker-examples to build a customized Tenso
 **📄 License**
 Distributed under the MIT License. See LICENSE for more information.
 
-Author: Karthik K.S.
+Authors: Karthik K.S., Nicholas christo .T 
 
 Affiliation: SRM Institute of Science and Technology
