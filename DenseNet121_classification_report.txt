@@ -41,6 +41,7 @@ Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot       0.91      0.94      0.9
                       Tomato___Tomato_mosaic_virus       1.00      1.00      1.00        77
                                   Tomato___healthy       1.00      1.00      1.00       329
 
+
                                           accuracy                           0.99     10861
                                          macro avg       0.99      0.99      0.99     10861
                                       weighted avg       0.99      0.99      0.99     10861
